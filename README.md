@@ -14,27 +14,27 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" />
       <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" />
       <br>GitHub
     </td>
   </tr>
@@ -46,13 +46,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+        <img src="assets/images/sigma.gif" width="100%">
       </td>
       <td>
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
+        <img src="assets/images/sigma.gif" width="100%">
       </td>
       <td>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+        <img src="assets/images/sigma.gif" width="100%">
       </td>
     </tr>
     <tr align="center">
@@ -61,11 +61,31 @@
       <td><b>🕺 Dancer</b></td>
     </tr>
   </table>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="assets/images/sigma.gif" width="100%">
+      </td>
+      <td>
+        <img src="assets/images/sigma.gif" width="100%">
+      </td>
+      <td>
+        <img src="assets/images/sigma.gif" width="100%">
+      </td>
+    </tr>
+    <tr align="center">
+      <td><b>🎭 Comedian</b></td>
+      <td><b>👨‍🍳 Cook</b></td>
+      <td><b>⚽ Sportsman</b></td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 Hackathon Conquests
 
 <div align="center">
+  <br>
   <kbd>
     <kbd>🏅 SIH</kbd> • 
     <kbd>🏅 SPIT</kbd> • 
@@ -79,7 +99,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Chaitanya-67&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+    <img src="assets/images/hackathon.gif" width="200">
 </div>
 
 ## 🚀 Projects That Pack a Punch
@@ -90,9 +110,7 @@
       <td width="50%">
         <h3 align="center">🩺 Diabetes Detection AI</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-          </a>
+          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
           <p>
             <strong>Python • TensorFlow • Flask • Firebase</strong>
           </p>
@@ -105,7 +123,7 @@
             <i>Dual-mode deep learning framework analyzing 15+ clinical features & 3,662 retinal images</i>
           </p>
           <p>
-            <a href="https://github.com/Dev-Chaitanya-67/diabetes-detection">
+            <a href="https://github.com/Dev-Chaitanya-67/Diabetes-Detection-System---Diploma-Project">
               <img src="https://img.shields.io/badge/Code-2E9FFF?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
@@ -114,9 +132,7 @@
       <td width="50%">
         <h3 align="center">🗺️ COEP Navigator</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-          </a>
+          <img src="https://media.giphy.com/media/Wsju5zAb5hOSdaWY0D/giphy.gif" width="100%">
           <p>
             <strong>React.js • Node.js • Dijkstra's Algorithm</strong>
           </p>
@@ -129,7 +145,7 @@
             <i>Modeled 50+ buildings with weighted graphs, reducing wayfinding from 15min → 9min</i>
           </p>
           <p>
-            <a href="https://github.com/Dev-Chaitanya-67/coep-navigator">
+            <a href="https://github.com/Dev-Chaitanya-67/coep_map_campus_navigation_system">
               <img src="https://img.shields.io/badge/Code-2E9FFF?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
@@ -140,9 +156,7 @@
       <td colspan="2">
         <h3 align="center">📅 Appointment Booking System</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-          </a>
+          <img src="https://media.giphy.com/media/llarwdtFqG63NBASdv/giphy.gif" width="100%">
           <p>
             <strong>MERN Stack • Firebase • Bootstrap</strong>
           </p>
@@ -155,7 +169,7 @@
             <i>Role-based dashboards for 3 user types with real-time booking system</i>
           </p>
           <p>
-            <a href="https://github.com/Dev-Chaitanya-67/appointment-system">
+            <a href="https://github.com/Dev-Chaitanya-67/React-Appointment-Booking-System-Project">
               <img src="https://img.shields.io/badge/Code-2E9FFF?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
@@ -170,15 +184,15 @@
 <div align="center">
   
 ### 👨‍💻 Primary Weapons
-| <img src="https://skillicons.dev/icons?i=html" width="48"> | <img src="https://skillicons.dev/icons?i=css" width="48"> | <img src="https://skillicons.dev/icons?i=js" width="48"> | <img src="https://skillicons.dev/icons?i=react" width="48"> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"> | <img src="https://skillicons.dev/icons?i=java" width="48"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 
 ### ⚙️ Heavy Artillery
-| <img src="https://skillicons.dev/icons?i=python" width="48"> | <img src="https://skillicons.dev/icons?i=tensorflow" width="48"> | <img src="https://skillicons.dev/icons?i=flask" width="48"> | <img src="https://skillicons.dev/icons?i=firebase" width="48"> | <img src="https://skillicons.dev/icons?i=mongodb" width="48"> | <img src="https://skillicons.dev/icons?i=cs" width="48"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 
 ### 🗄️ Databases & Tools
-| <img src="https://skillicons.dev/icons?i=mysql" width="48"> | <img src="https://skillicons.dev/icons?i=git" width="48"> | <img src="https://skillicons.dev/icons?i=github" width="48"> | <img src="https://skillicons.dev/icons?i=vscode" width="48"> | <img src="https://skillicons.dev/icons?i=linux" width="48"> | <img src="https://skillicons.dev/icons?i=netlify" width="48"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48"> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 
 </div>
@@ -186,14 +200,14 @@
 ## 📊 The Stats That Matter
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Chaitanya-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Chaitanya-67&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Chaitanya-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Chaitanya-67&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Chaitanya-67&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Chaitanya-67&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&langs_count=8&hide=c,c%2B%2B,php,shell" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Dev-Chaitanya-67&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" />
 </div>
 
@@ -255,14 +269,3 @@ CSS          2 hrs 45 mins   ██░░░░░░░░░░░░░░░
 Java         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   10%
 Python       1 hr 05 mins    █░░░░░░░░░░░░░░░░░░    5%
 
-<!--END_SECTION:waka-->
-📫 Let's Connect & Collaborate
-<div align="center">
-
-https://img.shields.io/badge/Portfolio-chaitron.netlify.app-2E9FFF?style=for-the-badge&logo=netlify&logoColor=white
-https://img.shields.io/badge/LinkedIn-Connect-2E9FFF?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/LeetCode-Chaitanya7667-2E9FFF?style=for-the-badge&logo=leetcode&logoColor=white
-https://img.shields.io/badge/HackerRank-Dev--Chaitanya--67-2E9FFF?style=for-the-badge&logo=hackerrank&logoColor=white
-</div>
-👀 Profile Pulse
-<div align="center"> <table> <tr> <td> <b>Profile Views</b> <br> <img src="https://profile-counter.glitch.me/Dev-Chaitanya-67/count.svg" /> </td> <td> <b>Followers</b> <br> <img src="https://img.shields.io/github/followers/Dev-Chaitanya-67?label=Followers&style=social" /> </td> <td> <b>Last Updated</b> <br> <img src="https://img.shields.io/github/last-commit/Dev-Chaitanya-67/Dev-Chaitanya-67?label=Updated&style=flat&color=2E9FFF" /> </td> </tr> </table> </div><div align="center"> <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" width="40"/> <h3> <i>"I'm not just a developer - I'm a singer, dancer, cook, comedian, and your tech solution architect!"</i> </h3> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> <p> ⭐ From <b>Code</b> to <b>Creativity</b> to <b>Comedy</b> - I do it all! ⭐ </p> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200"> <br> <br> <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"> <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"></div> ```
