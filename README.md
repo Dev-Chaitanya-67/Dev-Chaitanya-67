@@ -1,4 +1,4 @@
-# 🚀 Chaitanya Sunil Wagh — Full Stack Develope
+# 🚀 Chaitanya Sunil Wagh — Full Stack Developer
 
 <div align="center">
 
